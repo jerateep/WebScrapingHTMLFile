@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jerateeps\\Desktop\\SAP\\ScrapingHTMLSAP\\ScrapingHTMLSAP\\ScrapingHTML\\ScrapingHTML.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jerateeps\\Desktop\\SAP\\ScrapingHTMLSAP\\ScrapingHTMLSAP\\ScrapingHTML\\ScrapingHTML.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jerateeps\\Desktop\\SAP\\ScrapingHTMLSAP\\ScrapingHTMLSAP\\ScrapingHTML\\ScrapingHTML.csproj",
+        "projectName": "ScrapingHTML",
+        "projectPath": "C:\\Users\\jerateeps\\Desktop\\SAP\\ScrapingHTMLSAP\\ScrapingHTMLSAP\\ScrapingHTML\\ScrapingHTML.csproj",
+        "packagesPath": "C:\\Users\\jerateeps\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jerateeps\\Desktop\\SAP\\ScrapingHTMLSAP\\ScrapingHTMLSAP\\ScrapingHTML\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jerateeps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.17, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

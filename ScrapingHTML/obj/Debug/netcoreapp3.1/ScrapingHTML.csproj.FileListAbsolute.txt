@@ -1,0 +1,13 @@
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\bin\Debug\netcoreapp3.1\ScrapingHTML.exe
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\bin\Debug\netcoreapp3.1\ScrapingHTML.deps.json
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\bin\Debug\netcoreapp3.1\ScrapingHTML.runtimeconfig.json
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\bin\Debug\netcoreapp3.1\ScrapingHTML.runtimeconfig.dev.json
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\bin\Debug\netcoreapp3.1\ScrapingHTML.dll
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\bin\Debug\netcoreapp3.1\ScrapingHTML.pdb
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\obj\Debug\netcoreapp3.1\ScrapingHTML.AssemblyInfoInputs.cache
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\obj\Debug\netcoreapp3.1\ScrapingHTML.AssemblyInfo.cs
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\obj\Debug\netcoreapp3.1\ScrapingHTML.csproj.CopyComplete
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\obj\Debug\netcoreapp3.1\ScrapingHTML.dll
+C:\Users\jerateeps\Desktop\SAP\ScrapingHTMLSAP\ScrapingHTMLSAP\ScrapingHTML\obj\Debug\netcoreapp3.1\ScrapingHTML.pdb
